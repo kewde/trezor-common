@@ -89,6 +89,8 @@
       "bitcoin:tGRS": "1.6.2",
       "bitcoin:tSMART": "1.7.1",
       "bitcoin:tXZC": "1.6.2",
+      "bitcoin:PART": "1.7.1",
+      "bitcoin:tPART": "1.7.1",
       "erc20:ella:MINING": "1.6.2",
       "erc20:etc:BEC": "1.6.2",
       "erc20:eth:$FFC": "1.6.2",

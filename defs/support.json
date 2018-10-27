@@ -155,6 +155,8 @@
       "bitcoin:tQTUM": "1.8.1",
       "bitcoin:tSMART": "1.7.1",
       "bitcoin:tXZC": "1.6.2",
+      "bitcoin:PART": "1.7.1",
+      "bitcoin:tPART": "1.7.1",
       "erc20:ella:MINING": "1.6.2",
       "erc20:esn:DGT": "1.7.1",
       "erc20:esn:TOPM": "1.7.1",

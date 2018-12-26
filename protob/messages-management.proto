@@ -57,6 +57,7 @@ message Features {
     optional bytes fw_vendor_keys = 26;         // reported firmware vendor keys (their hash)
     optional bool unfinished_backup = 27;       // report unfinished backup (equals to Storage.unfinished_backup)
     optional bool no_backup = 28;               // report no backup (equals to Storage.no_backup)
+    optional bool pin_entry_on_device = 29;     // does the pin entry happen on device?
 }
 
 /**
@@ -80,6 +81,7 @@ message ApplySettings {
     optional bytes homescreen = 4;
     optional PassphraseSourceType passphrase_source = 5;
     optional uint32 auto_lock_delay_ms = 6;
+    optional bool pin_entry_on_device = 7;
     /**
     * Structure representing passphrase source
     */
